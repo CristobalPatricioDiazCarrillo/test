@@ -17,7 +17,7 @@ def tabla(X,TABLA,aNorm):
             print TABLA
             break
 
-
+print("vdfvdvdfv")
 X = [1,1,1]
 TABLA = []
 aNorm = 1e-15
